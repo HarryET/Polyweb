@@ -7,8 +7,8 @@
         <Authors>HarryET</Authors>
         <Company>Harmony</Company>
         <Description>Fast, 0 Dependency HTTP Server For Everyone.</Description>
-        <PackageIconUrl></PackageIconUrl>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/HarryET/Polygon/main/LICENSE</PackageLicenseUrl>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
