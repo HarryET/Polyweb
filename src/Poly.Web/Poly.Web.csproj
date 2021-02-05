@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageId>Poly.Web</PackageId>
+        <Authors>HarryET</Authors>
+    </PropertyGroup>
+
+</Project>
