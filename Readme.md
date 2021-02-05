@@ -102,7 +102,18 @@ namespace Polyweb.Test
 
 # Credits
 
+## Contributers
+
+<h4 align="center">
+
+|   User                     | Emojis                                        |
+|:---------------------------|:----------------------------------------------|
+|   HarryET                  | :tada: :sparkles: :bookmark: :bug:            |
+
+</h4>
+
 ## Key
+
 <h4 align="center">
 
 |   Commit type              | Emoji                                         |
@@ -153,9 +164,3 @@ namespace Polyweb.Test
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
 
 </h4>
-
-## Contributers
-
-|   User                     | Emojis                                        |
-|:---------------------------|:----------------------------------------------|
-|   HarryET                  | :tada: :sparkles: :bookmark: :bug:            |
