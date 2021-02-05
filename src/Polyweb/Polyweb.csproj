@@ -3,14 +3,9 @@
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
         <PackageId>Polyweb</PackageId>
-        <Version>0.0.1-alpha.1</Version>
+        <Version>0.0.2-alpha.1</Version>
         <Authors>HarryET</Authors>
         <Company>Harmony</Company>
-        <Description>Fast, 0 Dependency HTTP Server For Everyone.</Description>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageLicenseUrl>https://raw.githubusercontent.com/HarryET/Polyweb/main/LICENSE</PackageLicenseUrl>
-        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-        <RepositoryUrl>https://github.com/HarryET/Polyweb</RepositoryUrl>
     </PropertyGroup>
 
 </Project>

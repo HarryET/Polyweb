@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package >
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
+    <id>Polyweb</id>
+    <version>0.0.2-alpha.1</version>
+    <authors>HarryET</authors>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <license type="expression">MIT</license>
+    <description>Fast, 0 Dependency HTTP Server For Everyone.</description>
+    <licenseUrl>https://github.com/HarryET/Polyweb/blob/main/LICENSE</licenseUrl>
+    <repository type="git" url="https://github.com/HarryET/Polyweb.git" branch="main" />
     <projectUrl>https://github.com/HarryET/Polyweb</projectUrl>
-    <description>$description$</description>
-    <copyright>$copyright$</copyright>
-    <tags>Http Web Server</tags>
+    <icon>files/icon.png</icon>
+    <iconUrl>https://github.com/HarryET/Polyweb/raw/main/icon.png</iconUrl>
+    <copyright>Copyright ©2021 HarryET</copyright>
+    <tags>Http Web Server Polyweb</tags>
   </metadata>
+
+  <files>
+    <!-- Add a readme -->
+    <file src="../../Readme.md" target="files" />
+
+    <!-- Add a Icon -->
+    <file src="../../icon.png" target="files" />
+    
+    <!-- Add a LICENCE -->
+    <file src="../../LICENSE" target="files" />
+  </files>
 </package>
