@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygon", "Polygon\Polygon.csproj", "{44F3F041-A2E0-44CD-962E-06EB5D22EAF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyweb", "src\Polyweb\Polyweb.csproj", "{44F3F041-A2E0-44CD-962E-06EB5D22EAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyweb.Tests", "src\Polyweb.Tests\Polyweb.Tests.csproj", "{921CB6DD-6240-4D48-B313-BA14E1FF561F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{44F3F041-A2E0-44CD-962E-06EB5D22EAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44F3F041-A2E0-44CD-962E-06EB5D22EAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44F3F041-A2E0-44CD-962E-06EB5D22EAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921CB6DD-6240-4D48-B313-BA14E1FF561F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921CB6DD-6240-4D48-B313-BA14E1FF561F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921CB6DD-6240-4D48-B313-BA14E1FF561F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921CB6DD-6240-4D48-B313-BA14E1FF561F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
