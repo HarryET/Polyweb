@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://discord.gg/VWQfY2jn86"><img src="https://canary.discord.com/api/guilds/807179133569335328/widget.png?style=shield" alt="Discord Server Invite"/></a>
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPL v3 Licence"/>
-  <a href="https://www.nuget.org/packages/Polyweb/"><img alt="Nuget (with prereleases)" src="https://img.shields.io/nuget/vpre/Polyweb"></a>
+  <a href="https://www.nuget.org/packages/Poly.Web/"><img alt="Nuget (with prereleases)" src="https://img.shields.io/nuget/vpre/Poly.Web"></a>
 </p>
 <br>
 <p align="center">
